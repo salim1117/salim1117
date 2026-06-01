@@ -1,6 +1,6 @@
 ## Hey, I'm Mohammed
 
-I build backend systems and full-stack applications. Mostly Java, Python, and React. Recently completed my B.E. in Computer Science and interned at KodNest as a full-stack developer. Now looking for backend/AI roles in Bangalore.
+I build backend systems and full-stack applications. Mostly Java, Python, and React. Recently completed my B.E. in Computer Science and interned at KodNest as a full-stack developer. Now looking for backend/AI roles.
 
 **Currently working on:** Resume analysis tools, career guidance platforms, and real-world web applications.
 
