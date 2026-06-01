@@ -1,44 +1,72 @@
-## Hey, I'm Mohammed
-
-I build backend systems and full-stack applications. Mostly Java, Python, and React. Recently completed my B.E. in Computer Science and interned at KodNest as a full-stack developer. Now looking for backend/AI roles.
-
-**Currently working on:** Resume analysis tools, career guidance platforms, and real-world web applications.
+<h1 align="center">Hi 👋, I'm Mohammed Saleem</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | AI & Full-Stack Enthusiast</h3>
 
 ---
 
-## Tech Stack
+# 💫 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+🎓 Final-year Computer Science student passionate about Backend Development, Artificial Intelligence, and Full-Stack Engineering.
 
----
+💻 I specialize in Java, Spring Boot, React, and Machine Learning, with a strong interest in building scalable software that solves real-world problems.
 
-## Projects
+🚀 My recent projects include AI-powered Resume Analysis, Career Guidance Systems, Plant Disease Detection, and Full-Stack Web Applications.
 
-| Project | What it does | Tech | Link |
-|---------|-------------|------|------|
-| **Resume Analyzer ML** | Classifies job domains from resumes and identifies skill gaps using SVM and TF-IDF | Python, Streamlit, Scikit-learn | [Repo](https://github.com/salim1117/resume-analyzer-ml) |
-| **Indian Sign Language Converter** | Real-time hand gesture recognition converting to ISL text with multilingual support | Python, OpenCV, Keras | [Repo](https://github.com/salim1117/indian-sign-language-converter) |
-| **Build Ready Resumes** | Resume builder with multiple templates for quick professional document creation | React, TypeScript, Tailwind | [Live](https://build-ready-resumes.lovable.app) |
-| **MusB Diagnostics** | Client website for diagnostic center with service listings and booking | HTML, CSS, JavaScript | [Live](https://musbdiagnostics.vercel.app) |
-| **Kodnest Build** | Reusable React component system built during internship | React, TypeScript, Tailwind, shadcn/ui | [Repo](https://github.com/salim1117/kodnest-build) |
+📚 Currently focused on improving Data Structures & Algorithms, System Design, Backend Development, and Software Engineering best practices.
+
+🌱 Always learning, building, and experimenting with new technologies.
 
 ---
 
-## Connect
+# 🚀 Featured Projects
 
-- **Email:** salim07238@gmail.com
-- **LinkedIn:** [linkedin.com/in/mohammed-saleem](https://linkedin.com/in/mohammed-saleem)
-- **Portfolio:** [salim1117.github.io/portfolio](https://salim1117.github.io/portfolio)
+### 🤖 AI Resume Analyzer
+AI-powered platform that analyzes resumes, identifies weaknesses, and provides actionable improvement suggestions.
+
+### 🎯 Career Compass
+Intelligent career guidance system that recommends learning paths and career opportunities based on user skills and interests.
+
+### 🌿 Plant Disease Detection System
+Machine Learning application that detects crop diseases from leaf images and helps farmers take preventive action.
+
+### ❤️ Couple Journey App
+Private memory-preservation platform allowing couples to store, organize, and revisit important relationship milestones.
 
 ---
 
-Last updated: July 2026
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salim1117&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedsaleem1)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salim07238@gmail.com)
+
+---
+
+### 💡 Quote I Live By
+
+> "Consistency beats motivation. Small progress every day compounds into massive results."
